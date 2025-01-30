@@ -41,8 +41,8 @@ HealthyBites adalah aplikasi mobile berbasis Flutter yang menyediakan berbagai r
 
 ### Main Screen
 
-![Main Screen](images/main-screen.png)
+<img src="./images/main-screen.png" width="300">
 
 ### Detail Screen
 
-![Main Screen](images/detail-screen.png)
+<img src="./images/detail-screen.png" width="300">
