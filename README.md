@@ -42,6 +42,6 @@ HealthyBites adalah aplikasi mobile berbasis Flutter yang menyediakan berbagai r
 ### Main Screen | Detail Screen
 
 <div>
-  <img src="./images/main-screen.png" width="300" style="display: inline-block; margin-right: 10px;">
+  <img src="./images/main-screen.png" width="300" style="display: inline-block; margin-right: 40px;">
   <img src="./images/detail-screen.png" width="300" style="display: inline-block;">
 </div>
